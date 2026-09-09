@@ -3298,6 +3298,26 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Astell](https://astell.ai)
+The AI platform for humans. AI made a few people on your team very, very good. Astell helps you get there.
+
+<details>
+
+### Category
+Productivity
+
+### Description
+- Astell knows your clients, your deadlines, and what changed yesterday. It keeps the receipts. And it keeps your commitments moving until they're done.
+- Your AI starts from scratch every time. Astell doesn't. One memory. Each person sees only their part. Work becomes loops, so nothing starts from scratch.
+- Astell: Bring the whole team up to your best AI user.
+- Astell MCP: Keep the AI you use. Astell does the groundwork behind it.
+- Astell Developer Platform: Build on Astell.
+
+### Links
+- [Web](https://astell.ai)
+
+</details>
+
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
