@@ -3894,7 +3894,7 @@ Sales
 </details>
 
 ## [DOS AI](https://dosai.pro/en)
-AI assistant that answers your customers in WhatsApp and Telegram
+AI assistant that answers your customers in WhatsApp, Instagram and Telegram
 
 <details>
 
@@ -3906,10 +3906,10 @@ Customer support, Sales, Personal assistant
 ### Description
 - Answers customers in WhatsApp, Telegram and Instagram Direct the way a trained manager would: prices, availability, booking, objections, and it hands the chat to a human when the question needs one.
 - Built from a plain-text description of the business plus an uploaded knowledge base (price lists, documents, FAQ). There is no flow chart to draw.
-- Connects an existing WhatsApp number by QR, so the business keeps the number and the history its customers already know. The official Business API is supported too.
+- Connects an existing WhatsApp number by QR, so the business keeps the number and the history its customers already know.
 - Every conversation becomes a lead card in a built-in CRM, with stage, tags and notes.
-- Takes payment inside the chat, including Kaspi, which matters for businesses in Central Asia.
-- Calls tools of its own: a live schedule, Google Sheets and Calendar, email, or the company's own API.
+- In Kazakhstan it issues a Kaspi invoice inside the chat and confirms the payment only when the till does.
+- Calls tools of its own: a live schedule, Google Sheets and Calendar, Bitrix24, amoCRM and Kommo, iiko, email, or the company's own API.
 - Sends follow-ups on a schedule when a customer goes quiet.
 - Works in English, Russian and Kazakh.
 
