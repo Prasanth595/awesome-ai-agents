@@ -2427,6 +2427,24 @@ Productivity, Research
 
 </details>
 
+## [ShortSmash](https://github.com/abicevoice1-sudo/shortsmash)
+Agentic video pipeline with MCP server: prompt in, viral short out
+
+<details>
+
+### Category
+Content creation, Video
+
+### Description
+- AI agent that turns a prompt into a published short video: LLM script, 50-language neural dubbing, CLIP+Gemini vision-verified footage, karaoke captions
+- Veo 3.1/Kling/Agnes video providers; one-click publishing to 10 platforms (YouTube, TikTok, Instagram, X, Threads, Bluesky, LinkedIn, Pinterest, Facebook)
+- Web Studio UI, lyrics video mode, trend-to-publish Auto mode with API quota budgeting, MCP server. MIT licensed.
+
+### Links
+- [GitHub](https://github.com/abicevoice1-sudo/shortsmash)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
