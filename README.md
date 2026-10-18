@@ -70,6 +70,26 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Actlet](https://github.com/abicevoice1-sudo/actlet)
+Personal AI agent with approval gates on every consequential action — remembers, schedules, browses, and learns
+
+<details>
+
+### Category
+Personal assistant, Autonomous agents
+
+### Description
+
+- **Approval gates on every action**: the agent cannot click, write, send, or spend without your explicit approval — enforced in code, not in prompts.
+- **Local-first memory**: full-text searchable and user-owned, with nightly dreaming consolidation that turns task history into durable knowledge.
+- **Scheduling + proactivity**: natural-language recurring tasks ("every morning at 8"), quiet hours, and proactive schedule suggestions from usage patterns.
+- **Real browser control**: Playwright Chromium with 16 approval-gated tools, tab management, and screenshots at every step.
+- **$0 by default**: Ollama local models with free-tier cloud fallbacks. 190+ tests green. Apache-2.0.
+
+### Links
+- [GitHub](https://github.com/abicevoice1-sudo/actlet)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
