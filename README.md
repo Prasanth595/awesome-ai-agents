@@ -2094,6 +2094,31 @@ General purpose
 </details>
 
 
+## [Mixdog](https://github.com/tribgames/mixdog)
+Desktop coding agent where a lead model plans and cheaper models do the work
+
+<details>
+
+![image](https://raw.githubusercontent.com/tribgames/mixdog/main/apps/desktop/build/mixdog.png)
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Open-source desktop coding agent for Windows, macOS and Linux, also available as a CLI through npm
+- A strong model leads and plans while cheaper models search, edit and review in parallel
+- Works with Claude, ChatGPT, Grok and Muse Code subscriptions, API keys (Anthropic, OpenAI, Gemini, xAI, OpenRouter, DeepSeek) or local models
+- Includes an editor, terminals, Git and GitHub integration, a code graph and language servers
+- Can keep working on its own with goals, schedules and webhooks, and sessions continue from your phone
+- Apache-2.0 license
+
+### Links
+- [GitHub](https://github.com/tribgames/mixdog)
+- [Website](https://aiscroll.io/mixdog/)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
