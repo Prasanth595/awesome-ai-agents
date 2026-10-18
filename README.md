@@ -1376,6 +1376,27 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [faztudo](https://github.com/thiagodefreitas/faztudo)
+Local-first chat workspace where you and coding agents work together in channels
+
+<details>
+
+![Image](https://raw.githubusercontent.com/thiagodefreitas/faztudo/main/docs/images/social-preview.png)
+
+### Category
+Coding, Multi-agent, Productivity, GitHub
+
+### Description
+- Agents run through the CLIs you already use and pay for: Claude Code, Codex, Grok, Kimi, Antigravity and OpenCode.
+- Write runs happen in their own git worktree inside a bubblewrap sandbox, are checked by the channel's tests, and merge only after a human approves them in an inbox.
+- Tasks with a board, per-agent quota lanes with automatic fallback, projects and team channels, a 2D and 3D office view, and a phone app over your LAN. MIT, runs locally, no cloud service.
+
+### Links
+- [GitHub](https://github.com/thiagodefreitas/faztudo)
+- [Docs](https://thiagodefreitas.github.io/faztudo/)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
