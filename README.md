@@ -70,6 +70,25 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [OpenPilot](https://github.com/contentforge-press/openpilot)
+Open-source AI agent framework with multi-model LLM orchestration
+
+<details>
+
+### Category
+General purpose, Build your own, Tool calling
+
+### Description
+- Multi-model LLM orchestration with automatic fallback (deepseek → glm → kimi → groq → gemini → pollinations)
+- Built-in tool calling: web search, URL fetch, file read/write, email
+- Zero config - clone and run, no API key required
+- Extensible tool system for custom integrations
+
+### Links
+- [GitHub](https://github.com/contentforge-press/openpilot)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
