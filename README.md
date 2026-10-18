@@ -458,7 +458,7 @@ An AI agent that runs a Xiaohongshu account end to end — research, writing, vi
 Social media, Content creation, Productivity
 
 ### Description
-Open-source system that lets a cloud AI agent (Muse, ChatGPT Dots, or Grok Bot) operate a Xiaohongshu (RedNote) account on its own: it researches topics, writes scripts, builds animated videos from web pages, posts through the agent's own browser, and follows up on comments. Publishing is gated by a rulebook and a validation script, and new use cases can be added as scenario packs.
+Open-source system that lets a cloud AI agent (Muse, Dots, or Grok Bot) operate a Xiaohongshu (RedNote) account on its own: it researches topics, writes scripts, builds animated videos from web pages, posts through the agent's own browser, and follows up on comments. Publishing is gated by a rulebook and a validation script, and new use cases can be added as scenario packs.
 
 ### Links
 - GitHub: [zr9959/auto-xhs](https://github.com/zr9959/auto-xhs)
