@@ -2689,6 +2689,29 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [The Boring Company](https://github.com/abdullahhanjraa/theboringcompany)
+Virtual AI software company in pure Node.js with real test verification
+
+<details>
+
+![image](https://raw.githubusercontent.com/abdullahhanjraa/theboringcompany/main/docs/assets/banner.svg)
+
+### Category
+Coding, Multi-agent, Software Engineering
+
+### Description
+- A virtual software engineering company driven by 72 specialized AI teammates arranged into 6 functional departments (Executive, Red Team, Engineering, QA, Design, Operations).
+- Built on the core principle of "evidence before confidence": agents cannot declare tasks complete using narrative claims or unverified text output alone.
+- **Staged Task Breaker**: Automatically decomposes complex user prompts into an ordered dependency graph (DAG) before any code is written, ensuring tasks are tackled in logical sequence.
+- **The Reality Gate**: Features an independent Quality Assurance branch (Angela Martin) that executes your computer's real test runner directly on your machine. Releases are automatically blocked unless tests exit cleanly with zero errors (`exit code 0`).
+- **Zero-Dependency Architecture**: Built entirely in vanilla Node.js using only standard library modules for sub-millisecond startup, offline SQLite ledger persistence (`company.db`), and 1-click export to Cursor, Claude Code, and Antigravity.
+
+### Links
+- [GitHub Repository](https://github.com/abdullahhanjraa/theboringcompany)
+- Author: [Abdullah Hanjra](https://github.com/abdullahhanjraa)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
