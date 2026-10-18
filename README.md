@@ -1333,6 +1333,30 @@ Coding
 
 </details>
 
+## [Extra](https://extra.yantraos.com/)
+Flashless native computer-use engine & MCP server across Linux, Windows, and macOS
+
+<details>
+
+### Category
+Computer use, OS automation, Developer tools
+
+### Description
+- Extra is a sovereign, flashless native desktop automation engine and Model Context Protocol (MCP) server that gives AI agents hands and eyes on real desktops.
+- Features:
+  - Sub-3ms visual perception with zero black screen flicker via DXGI, ScreenCaptureKit, and Spectacle/grim.
+  - Native tri-platform hardware actuation: Win32 UIA, macOS CoreGraphics/AXUIElement, and Linux AT-SPI2.
+  - Closed-loop visual grounding (Project SOUL) with human-like Bezier cursor dynamics.
+  - Universal distribution: Available on PyPI (`pip install extra-desktop`) and npm (`npx @yantraos/extra-desktop`).
+
+### Links
+- [GitHub](https://github.com/AIYantra/extra)
+- [Website](https://extra.yantraos.com/)
+- [PyPI](https://pypi.org/project/extra-desktop/)
+- [npm](https://www.npmjs.com/package/@yantraos/extra-desktop)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
