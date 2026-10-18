@@ -2482,6 +2482,30 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [Soro-Boro](https://github.com/nisaral/Soro-Boro)
+Single-pass System-One conformal tool router and execution boundary for MCP servers
+
+<details>
+
+### Category
+Tool for agents, Autonomous Agents, Infrastructure
+
+### Description
+Soro-Boro is a specialized System-One execution runtime and decision boundary for AI agents:
+- **Sub-100ms Pointer Routing**: Soro-Kev routes natural language queries to MCP tools in a single forward prefill pass without free-text generation overhead.
+- **Zero Hallucinated Tool Names**: Uses pointer network heads over candidate catalog embeddings, mathematically bounding hallucinated tool names to 0%.
+- **Conformal Calibration**: Computes Split Conformal Prediction sets with rigorous coverage guarantees ($1-\alpha=0.90$), returning calibrated tri-state decisions: `EXECUTE`, `ASK`, or `ABSTAIN`.
+- **Duplicate Mutation Loop Prevention**: Provides idempotency caching, verified rollback journals, and repair loops for malformed tool arguments.
+
+### Links
+- [GitHub](https://github.com/nisaral/Soro-Boro)
+- [PyPI](https://pypi.org/project/soro-boro/)
+- [Hugging Face 4B Model](https://huggingface.co/nisaralll/soro-kev-4b)
+- [Hugging Face 0.8B Model](https://huggingface.co/nisaralll/soro-kev-0.8b)
+- [Interactive Demo Space](https://huggingface.co/spaces/nisaralll/soro-kev-router)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
