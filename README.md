@@ -1771,6 +1771,29 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [LIA](https://github.com/jgouviergmail/LIA-Assistant)
+Self-hosted personal assistant with memory and connected tools
+
+<details>
+
+![LIA chat interface](https://raw.githubusercontent.com/jgouviergmail/LIA-Assistant/main/apps/web/public/screenshots/proof/dossier.png)
+
+### Category
+Personal assistant, Productivity, Multi-agent
+
+### Description
+- Connects email, calendars and documents with long-term memory.
+- Uses LangGraph orchestration with planned execution and iterative ReAct mode.
+- Supports scheduled routines, reminders and action approval flows.
+- Self-hosted with Docker, with a six-language interface and an AGPL-3.0 license.
+
+### Links
+- [GitHub](https://github.com/jgouviergmail/LIA-Assistant)
+- [Website](https://lia.jeyswork.com/)
+- [Self-hosting guide](https://github.com/jgouviergmail/LIA-Assistant/blob/main/docs/guides/GUIDE_SELF_HOSTING.md)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
