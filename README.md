@@ -5093,6 +5093,23 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [Recoder](https://recoder.xyz/)
+Desktop app that runs multiple AI coding agents in parallel, isolated workspaces
+<details>
+
+### Category
+Coding, Multi-agent, Developer tools
+
+### Description
+- Recoder is a desktop app for developers and small teams running AI coding agents (Claude Code, Codex, and others) side by side instead of one at a time.
+- Each agent gets its own git-worktree-isolated workspace, so parallel runs never collide on the same branch or files.
+- Live diffs and approval gates let a developer review and approve an agent's changes before they land, instead of trusting an agent to self-merge.
+
+### Links
+- [Web](https://recoder.xyz/)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
