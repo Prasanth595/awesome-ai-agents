@@ -114,6 +114,67 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Cyber Sentinel](https://github.com/BenniAlencar/agent-cyber-sentinel)
+Tier-0 zero-trust runtime security shield & prompt injection firewall
+
+<details>
+
+### Category
+Security & Guardrails, Developer Tools, MCP
+
+### Description
+- Tier-0 zero-trust runtime defense layer for autonomous AI agents and MCP servers.
+- **Prompt Injection Firewall**: Intercepts direct and indirect jailbreaks with <0.4ms overhead before tokens reach LLMs.
+- **Secret Leak Interceptor**: Redacts API keys, credentials, and high-entropy secrets in real-time using Shannon entropy.
+- **SSRF & Tool Sanitizer**: Blocks private IP / cloud metadata exfiltration (169.254.169.254) and toxic command executions.
+- **Proof-of-Defense (POD-9)**: Generates signed, tamper-evident cryptographic audit envelopes.
+
+### Links
+- [GitHub](https://github.com/BenniAlencar/agent-cyber-sentinel)
+- [PyPI](https://pypi.org/project/agent-cyber-sentinel/)
+
+</details>
+
+## [Agent Memory Mesh](https://github.com/BenniAlencar/agent-memory-mesh)
+Bi-temporal knowledge graph & lossless context compression for AI agents
+
+<details>
+
+### Category
+Memory, Knowledge Graph, FinOps
+
+### Description
+- Deterministic, time-aware memory layer that replaces naive vector search and eliminates context bloat.
+- **Bi-Temporal Knowledge Graph**: Tracks both transaction time and valid time, preserving historical ground truth.
+- **Lossless Context Compression**: Reduces token consumption by up to 74% without losing semantic relations.
+- **Causal Graph & Conflict Resolution**: Discovers causal dependency chains and resolves conflicting knowledge automatically.
+
+### Links
+- [GitHub](https://github.com/BenniAlencar/agent-memory-mesh)
+- [PyPI](https://pypi.org/project/agent-memory-mesh/)
+
+</details>
+
+## [Agent Run Ledger](https://github.com/BenniAlencar/agent-run-ledger)
+Durable execution state machine & anti-loop circuit breaker for AI agents
+
+<details>
+
+### Category
+Durable Execution, Developer Tools, Workflow
+
+### Description
+- Lightweight durable execution engine preventing agent mission crashes and runaway token burn.
+- **Crash-Resilient Resume**: Interrupted runs rehydrate instantly; completed steps are cached with zero duplicate token cost.
+- **Anti-Loop Circuit Breaker**: Detects repetitive tool loops, ping-pong hallucinations, and trips before burning budgets.
+- **Step Idempotency & Rollback**: Guarantees exactly-once side effects with compensation hooks.
+
+### Links
+- [GitHub](https://github.com/BenniAlencar/agent-run-ledger)
+- [PyPI](https://pypi.org/project/agent-run-ledger/)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
