@@ -1422,6 +1422,27 @@ Coding
 
 </details>
 
+## [FSB](https://github.com/fullselfbrowsing/FSB)
+Open source browser agent that lets AI clients drive your own signed in Chrome
+
+<details>
+
+### Category
+General purpose, Productivity
+
+### Description
+- Chrome MV3 extension plus MCP server (npm `fsb-mcp-server`) that lets any MCP client such as Cursor or Claude Code control your real, already logged in Chrome
+- Reads the live DOM instead of screenshots, so it is fast and needs no API key
+- About 69 tools for navigation, clicking, typing, reading pages and filling forms
+- Session replay and an encrypted credential vault
+- Install with `npx -y fsb-mcp-server@latest install --cursor`
+- MIT licensed
+
+### Links
+- **Author:** [Lakshman Turlapati](https://github.com/LakshmanTurlapati)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
