@@ -3542,6 +3542,29 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [CallMeMCP](https://callmemcp.com/)
+MCP server that lets an AI agent phone the user's iPhone and get the spoken answer back as text
+
+<details>
+
+### Category
+Tool for agents, Productivity
+
+### Description
+/call-me is an MCP server that lets an AI agent ring the user's iPhone, read a question or update aloud, and return the spoken answer to the agent as text.
+- Also sends text messages, and an answered call can stay open for a short spoken back-and-forth
+- Remote MCP endpoint at https://callmemcp.com/mcp (Streamable HTTP, no OAuth, no API key)
+- Works with Claude Code, Codex, Gemini CLI, Cursor, Grok Build and any MCP client
+- Demo line 5550001234 answers automatically, for trying it without a phone
+- The phone side is a paid iPhone app (subscription); the server itself is closed source
+
+### Links
+- [Web](https://callmemcp.com/)
+- [GitHub (install guides and plugins)](https://github.com/radres/call-me)
+
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
