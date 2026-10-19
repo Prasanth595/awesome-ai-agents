@@ -3157,6 +3157,10 @@ Coding, General purpose
 </details>
 
 
+## [ANiu — SXS Sports × Science](https://sxs-ai.com)
+AI agent of a football quant data provider: match data, odds movements, model-vs-market gaps and post-match reviews with timestamped receipts, built on ~1.4M historical matches and 300+ in-house models. Data only — no picks or tips.
+
+
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
 
