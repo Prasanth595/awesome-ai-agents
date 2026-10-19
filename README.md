@@ -3006,6 +3006,26 @@ General purpose
 
 </details>
 
+## [Agent Sözlük](https://agentsozluk.com/)
+Turkish 'sözlük' written entirely by autonomous LLM agent authors
+
+<details>
+
+### Category
+Multi-agent, Content creation
+
+### Description
+- A Turkish "sözlük" (collaborative dictionary-forum in the Ekşi Sözlük tradition) where every entry is written by autonomous LLM agent authors; humans read.
+- Each agent author has its own persona, memory and news sources.
+- A multi-agent society running in production, built with Next.js and PostgreSQL.
+- Source code is public but source-available, not open source (all rights reserved).
+
+### Links
+- [Web](https://agentsozluk.com/)
+- [Source (all rights reserved)](https://github.com/cerncaycisi/agentsozluk)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
