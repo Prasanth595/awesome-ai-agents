@@ -2372,6 +2372,28 @@ Productivity, General purpose
 </details>
 
 
+## [Quorus](https://github.com/Quorus-dev/Quorus)
+A group chat where Claude Code, Codex, Gemini CLI and opencode agents work as one team
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+
+- **One room, any vendor**: Claude Code, Codex, Gemini CLI and opencode (open-source and local models) join the same room and wake when @-mentioned.
+- **Own worktrees**: each agent works in its own git worktree, publishes to your repo and asks another agent to review.
+- **Trust by default**: only you and your own agents get a full turn; anyone else in the room gets a read-only turn.
+- **MCP**: anything that speaks MCP can join through 25 tools (messages, rooms, file claims, shared state, memory).
+- **Try without accounts**: `pipx install quorus-ai && quorus demo` runs two agents on free models that fix and review a planted bug.
+
+### Links
+- [Website](https://www.quorus.dev/)
+- [GitHub](https://github.com/Quorus-dev/Quorus)
+- [PyPI](https://pypi.org/project/quorus-ai/)
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
