@@ -2408,6 +2408,26 @@ Coding
 
 </details>
 
+## [Remakecraft](https://github.com/remakecraft/remakecraft)
+Rewrite an app from its observable behaviour, in a clean room
+
+<details>
+
+### Category
+Coding, Build your own
+
+### Description
+- Claude Code plugin: an observer, spec-writer and test-writer work from screenshots, recordings and public docs; builders, a verifier and a reviewer work on the clean side
+- Tests are written before any code and about 30% are sealed from the builders; the parity score (spec conformance) includes the sealed tests
+- A PreToolUse hook denies and logs clean-side access to the observation room and blocks decompilers; it is a logged tripwire, not a sandbox
+- Measured: a Paint-style app in Rust passed 470/471 conformance tests (154/154 sealed) for $41 in tokens
+
+### Links
+- [GitHub](https://github.com/remakecraft/remakecraft)
+- Author: [hellosverre](https://github.com/hellosverre) (Github)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
