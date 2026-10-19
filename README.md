@@ -1443,6 +1443,29 @@ Coding
 
 </details>
 
+## [GhostOS](https://github.com/GhostOS-ai/GhostOS)
+Featherweight, 100% offline desktop AI copilot & companion (<35MB RAM)
+
+<details>
+
+### Category
+General purpose, Coding, Productivity
+
+### Description
+- **Featherweight footprint**: Native OS WebViews idling at <35MB RAM (95% lighter than Electron).
+- **100% Offline & Private**: Zero telemetry, air-gapped readiness, zero cloud tracking.
+- **Dynamic VRAM Juggler**: Smart sleep/wake cycle memory management for low-spec laptops (4GB–8GB RAM).
+- **Zero-DB RAG**: Local document & codebase search with pure SQLite FTS5 (no heavy vector DBs).
+- **Terminal Sandbox Lens**: Proactive safety check before running destructive shell commands.
+- **Casper Desktop HUD**: Floating, transparent companion with custom skins and RPG progression.
+- **Local Model Support**: Out-of-the-box integration with local Ollama endpoints.
+
+### Links
+- [GitHub](https://github.com/GhostOS-ai/GhostOS)
+- [PyPI](https://pypi.org/project/ghostos-ai/)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
