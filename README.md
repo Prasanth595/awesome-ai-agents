@@ -2482,6 +2482,28 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [Stereo AI](https://github.com/j6995693-collab/stereo-ai-android)
+Open-source, local-first personal AI agent for Android
+
+<details>
+
+![Image](https://opengraph.githubassets.com/1/j6995693-collab/stereo-ai-android)
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+- Open-source Android personal AI agent: local-first, user-owned API keys, replaceable models, auditable tools.
+- Chat, tool calling, sub-agents, skills, memory, MCP, voice/vision, scheduled search, and AI map workflow.
+- Runs on an on-device WebView + codex app-server; no project cloud or bundled keys.
+- Apache-2.0.
+
+### Links
+- [GitHub](https://github.com/j6995693-collab/stereo-ai-android)
+- [Releases](https://github.com/j6995693-collab/stereo-ai-android/releases/tag/v3.0.1)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
