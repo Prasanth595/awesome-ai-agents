@@ -2458,6 +2458,22 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Sorcerer](https://github.com/gbrasil720/sorcerer)
+Local-first macOS app that simulates multi-agent communities (memory, relationships, polls, branching) around a hypothesis; BYO Claude Code / Codex / Ollama. MIT.
+
+<details>
+
+![Image](https://raw.githubusercontent.com/gbrasil720/sorcerer/main/docs/screenshots/feed-live.png)
+
+### Category
+Multi-agent, Simulation
+
+### Links
+- Author: [Guilherme Brasil](https://github.com/gbrasil720)
+- [Website](https://sorcererapp.dev)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
