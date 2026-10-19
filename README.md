@@ -2738,6 +2738,25 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Vibelution](https://github.com/CCDawn/Vibelution)
+A local-first desktop workbench where AI agents work as a team
+
+<details>
+
+### Category
+Multi-agent, Research, Finance, Virtual human, General purpose
+
+### Description
+- A supervised research team: a planner breaks down the work, workers execute, and an independent reviewer checks the results
+- A finance research agent (stock research) and virtual-human companions with memory
+- Local-first desktop app (Electron on Windows, macOS/Linux in the browser)
+- Bring your own model — local or cloud
+- Open-source under MIT
+
+### Links
+- [GitHub](https://github.com/CCDawn/Vibelution)
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
