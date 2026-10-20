@@ -5312,7 +5312,7 @@ Finance, Data analysis
 </details>
 
 ## [ThinkerWave](https://thinkerwave.ai)
-Autonomous AI for high-stakes decisions that argues against its own answer and shows its work
+Autonomous research agent for hard decisions that labels every claim verified, assumption or guess
 
 <details>
 
@@ -5320,11 +5320,12 @@ Autonomous AI for high-stakes decisions that argues against its own answer and s
 General purpose, Research, Finance
 
 ### Description
-- ThinkerWave is an AI product for complex, high-stakes decisions where being wrong is expensive. It works a problem from multiple angles, argues against its own conclusion, surfaces hidden criteria, refuses malformed questions, and shows its full reasoning trail.
-- Runs locally; available by invitation. Built by Thinkerwave AITech (India); patent pending at the Indian Patent Office.
+- Works a hard, open-ended problem round after round: it runs its own analysis code, checks its own work, and keeps the best answer. Every claim in the answer is labelled verified, assumption or guess.
+- Use it on the web or in the desktop app (Mac, Windows, Linux); free runs included. Open-source Python SDK, CLI and MCP server (Apache-2.0): `pip install thinkerwave`, `uvx thinkerwave-mcp`.
 
 ### Links
 - [Web](https://thinkerwave.ai)
+- [GitHub (SDK, CLI, MCP server)](https://github.com/thinkerwave-ai/thinkerwave)
 - Founder: [Vikas Goel](https://vikasgoel.com)
 
 </details>
