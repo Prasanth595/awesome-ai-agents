@@ -2946,7 +2946,7 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 <details>
 
-![image](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+![image](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
 
 ### Category
 Monitoring, Observability
