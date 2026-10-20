@@ -2070,6 +2070,27 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
+## [Mode VC Radar](https://github.com/alexbuilding/modevc-radar-mcp)
+Autonomous venture capital intelligence and valuation benchmark agent via Model Context Protocol
+
+<details>
+
+### Category
+Finance, Research, Venture Capital, Model Context Protocol
+
+### Description
+- **Venture Capital Intelligence**: Real-time access to 5,193 verified VC firm investment theses, check sizes, and lead partner profiles.
+- **SEC Form D Private Placement Radar**: Real-time monitoring of tech venture funding rounds and private offering disclosures filed with the SEC.
+- **AI Valuation & Unit Economics Benchmarks**: 38 empirical market valuation benchmarks and inference unit economics across leading AI providers.
+- **Model Context Protocol Native**: Official MCP server (com.modevc/radar) with hosted Streamable HTTP endpoint (https://modevc.com/api/mcp) for Claude, Cursor, and Windsurf.
+
+### Links
+- [Website](https://modevc.com)
+- [GitHub](https://github.com/alexbuilding/modevc-radar-mcp)
+- [Benchmarks](https://modevc.com/benchmarks/)
+
+</details>
+
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
