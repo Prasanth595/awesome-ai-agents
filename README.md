@@ -4835,6 +4835,28 @@ Build-your-own, Multi-agent
 </details>
 
 
+## [Nexscope](https://www.nexscope.ai/?co-from=e2b-awesome-ai-agents)
+Ecommerce data and creative tools for sellers and AI agents
+<details>
+
+![image](https://avatars.githubusercontent.com/u/265748764?s=400)
+
+### Category
+Business intelligence, Data analysis, Ecommerce
+
+### Description
+- Nexscope gives sellers and AI agents access to ecommerce marketplace data across Amazon, TikTok Shop, Walmart, Temu, Shopee, Ozon, Wildberries, Mercado Libre, Etsy, eBay, Shopify, Alibaba and 1688, plus Google search trends.
+- A remote MCP server (`https://api.nexscope.ai/mcp`, Streamable HTTP, OAuth or API key) exposes 228 tools for product research, keyword and review analysis, sales estimates and competitor tracking to Claude, ChatGPT, Cursor, Codex and other MCP clients.
+- The web workspace also generates product images and videos (image-to-video, URL-to-video, UGC-style ads).
+- Open-source Agent Skills packs (MIT) are published on GitHub.
+
+### Links
+- [Web](https://www.nexscope.ai/?co-from=e2b-awesome-ai-agents)
+- [MCP tool map](https://www.nexscope.ai/mcp-map?co-from=e2b-awesome-ai-agents)
+- [GitHub](https://github.com/nexscope-ai)
+</details>
+
+
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
 <details>
