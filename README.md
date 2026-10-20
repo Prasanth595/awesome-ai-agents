@@ -1422,6 +1422,23 @@ Coding
 
 </details>
 
+## [Frink](https://github.com/benord-labs/frink)
+Desktop-first app for parallel agents and triggered multi-step workflows
+
+<details>
+
+### Category
+Coding, Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+- Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps.
+
+### Links
+- [Web](https://frink.dev)
+- [GitHub](https://github.com/benord-labs/frink)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
