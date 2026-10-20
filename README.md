@@ -114,6 +114,26 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Cockpit](https://github.com/SECRET4422/agent-cockpit)
+Real-time visual telemetry HUD & circuit breaker for autonomous AI coding agents
+
+<details>
+
+<p><img src="https://raw.githubusercontent.com/SECRET4422/agent-cockpit/main/assets/banner.jpg" alt="Agent Cockpit Banner" /></p>
+
+### Category
+Coding, Developer tools, Observability, Debugging
+
+### Description
+- Agent Cockpit provides a local visual telemetry dashboard (`localhost:3333`) and autonomous circuit breaker for Cursor, Claude Code, and autonomous coding agents.
+- Real-time sliding-window loop recurrence radar, token spend velocity gauges ($/min), and automatic trip switches to prevent infinite agent bug loops and runaway API costs.
+- Includes a zero-config interactive flight simulation engine (`npx @ssgk4422/agent-cockpit --demo`).
+
+### Links
+- [GitHub](https://github.com/SECRET4422/agent-cockpit)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
