@@ -5311,6 +5311,25 @@ Finance, Data analysis
 
 </details>
 
+## [ThinkerWave](https://thinkerwave.ai)
+Autonomous research agent for hard decisions that labels every claim verified, assumption or guess
+
+<details>
+
+### Category
+General purpose, Research, Finance
+
+### Description
+- Works a hard, open-ended problem round after round: it runs its own analysis code, checks its own work, and keeps the best answer. Every claim in the answer is labelled verified, assumption or guess.
+- Use it on the web or in the desktop app (Mac, Windows, Linux); free runs included. Open-source Python SDK, CLI and MCP server (Apache-2.0): `pip install thinkerwave`, `uvx thinkerwave-mcp`.
+
+### Links
+- [Web](https://thinkerwave.ai)
+- [GitHub (SDK, CLI, MCP server)](https://github.com/thinkerwave-ai/thinkerwave)
+- Founder: [Vikas Goel](https://vikasgoel.com)
+
+</details>
+
 ## [Test Driver](https://testdriver.ai/)
 AI Agent for QA in GitHub
 
