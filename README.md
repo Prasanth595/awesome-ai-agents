@@ -320,6 +320,30 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Aurao](https://github.com/badnexus/Aurao)
+Friendly, safe desktop GUI for autonomous CLI agents (Claude Code, OpenAI Codex CLI, and Google Antigravity) with 1-click file approval cards
+
+<details>
+
+![Image](https://raw.githubusercontent.com/badnexus/Aurao/main/assets/Aurao_Assistant.png)
+
+### Category
+General purpose, Productivity, Desktop assistant, File management
+
+### Description
+- **Zero-jargon desktop interface**: Wraps powerhouse terminal AI agents (`@anthropic-ai/claude-agent-sdk`, OpenAI `codex app-server` JSON-RPC 2.0 daemon, and Google Antigravity `agy`) into a calm desktop workspace for everyday users.
+- **Visual 1-click Human-in-the-Loop approvals**: Intercepts mutating file and command actions via pre-tool hooks and presents clear Approve/Decline cards (`Safe Changes`, `Always Ask`, and `Autonomous` modes).
+- **Local file & research workflows**: Drag-and-drop folders to organize messy directories, synthesize stacks of PDFs into briefings, and edit local documents without terminal commands.
+- **Zero-config CLI auto-detection**: Automatically detects installed agent CLIs on first launch and ships as a single-file portable Windows `.exe` (with macOS and Linux builds from source).
+
+### Links
+- [Website](https://badnexus.github.io/Aurao/)
+- [GitHub](https://github.com/badnexus/Aurao)
+- [Latest Release (Windows Portable)](https://github.com/badnexus/Aurao/releases/latest)
+- Author: [Florian Schaider](https://github.com/badnexus)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
