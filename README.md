@@ -139,6 +139,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentIndex](https://agentindex.app)
+Directory and CLI for 2,940+ open-source AI agents and MCP servers
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- **2,940+ Open-Source Projects**: Comprehensive index tracking open-source AI agents, MCP servers, and frameworks.
+- **Terminal-First CLI**: Find tools directly from your terminal using `npx @agentindex-app/cli find mcp`.
+- **Health & Commit Tracking**: Real-time tracking of weekly commit activity, release dates, and repository health.
+- **Side-by-Side Comparisons**: Honest alternative comparisons without marketing bias.
+
+### Links
+- [Website](https://agentindex.app)
+- [GitHub](https://github.com/xiaozhenyangCode/agent-index)
+</details>
+
+
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
