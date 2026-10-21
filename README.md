@@ -2689,6 +2689,29 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Tongxi](https://github.com/flyspend/tongxi-workbench)
+Local group chat where Codex CLI and Claude Code split and review work
+
+<details>
+
+![image](https://raw.githubusercontent.com/flyspend/tongxi-workbench/main/docs/promo-en.jpg)
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Local, zero-dependency web workbench (Node.js 22+) that puts Codex CLI and Claude Code in one group chat
+- The agents split a goal into tasks, review each other's work, and hand off the workspace and results when one is blocked
+- Each task runs in its own Git worktree; nothing is pushed or merged automatically
+- Other agents with terminal access can join as members through a CLI bridge
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/flyspend/tongxi-workbench)
+- [Demo video](https://youtu.be/xLv_zpU4558)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
