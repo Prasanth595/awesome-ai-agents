@@ -182,6 +182,29 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgenticOS](https://github.com/vstorm-co/agenticos)
+Open-source, self-hosted workspace for company AI agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/vstorm-co/agenticos/main/docs/assets/social-preview.png)
+
+### Category
+General purpose, Build your own, Multi-agent, Productivity
+
+### Description
+- Build agents in the browser (instructions, model, tools, knowledge) and share them across a company.
+- The same agent answers in web chat, Slack, Telegram, Mattermost, a website widget or the API.
+- A team and its agents share one live project chat; agents can hand coding work to Claude Code or Codex.
+- Budgets checked before each model call, approvals for tool calls that change things, an audit log.
+- Runs on hosted models or your own (Ollama, vLLM); Apache-2.0, Docker Compose.
+
+### Links
+- [GitHub](https://github.com/vstorm-co/agenticos)
+- [Docs](https://vstorm-co.github.io/agenticos/)
+- [Web](https://vstorm-co.github.io/vstormos-landing/)
+
+</details>
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
