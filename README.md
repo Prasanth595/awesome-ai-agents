@@ -2458,6 +2458,30 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [SOMA](https://github.com/sunyan999999/soma)
+Framework-first cognitive architecture with self-evolving reasoning
+
+<details>
+
+### Category
+Agent Memory & Reasoning
+
+### Description
+SOMA (Somatic Wisdom Architecture) v2.0.19 gives AI agents structured reasoning via 7 thinking laws:
+- **Wisdom laws**: first principles, systems thinking, contradiction analysis, Pareto principle, inversion, analogical reasoning, evolutionary lens
+- **Bidirectional activation**: vector similarity + keyword RRF, both directions compete for true relevance
+- **Meta-evolution**: thinking-law weights auto-tune from success/failure outcomes across sessions
+- **Zero infrastructure**: SQLite + FAISS + ONNX embeddings — no vector DB or GPU required
+- **Full toolkit**: Python SDK (`pip install soma-wisdom`) + REST API + Vue3 Dashboard + Docker deployment
+- 1,200+ tests, Apache 2.0
+
+### Links
+- [GitHub](https://github.com/sunyan999999/soma)
+- [PyPI](https://pypi.org/project/soma-wisdom/)
+- [Docs](https://github.com/sunyan999999/soma/tree/main/docs)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
