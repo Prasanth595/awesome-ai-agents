@@ -2171,6 +2171,31 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Nanobrowser](https://github.com/nanobrowser/nanobrowser)
+Open-source AI agent for web tasks in your browser
+
+<details>
+
+![Image](https://raw.githubusercontent.com/nanobrowser/nanobrowser/master/public/icon-128.png)
+
+### Category
+Productivity, General purpose, Browser automation
+
+### Description
+- Chrome/Edge extension: describe a task in the side panel and the agent reads pages, clicks, types and moves between tabs to finish it
+- Works in your real, logged-in browser
+- Runs several tasks at once, each in its own tab group
+- Ask or Auto mode plus per-site Allow/Ask/Block rules; passwords, payments and access grants are always handed back to the user
+- Bring your own model: Anthropic, OpenAI, Gemini, OpenRouter, xAI, DeepSeek, Mistral, any OpenAI-compatible endpoint, or local models via Ollama / LM Studio
+- Free and open source (Apache-2.0)
+
+### Links
+- [GitHub](https://github.com/nanobrowser/nanobrowser)
+- [Website](https://nanobrowser.ai)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/nanobrowser/imbddededgmcgfhfpcjmijokokekbkal)
+- [X (Twitter)](https://x.com/nanobrowser_ai)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
