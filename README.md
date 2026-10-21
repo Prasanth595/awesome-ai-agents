@@ -182,6 +182,29 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentGo](https://github.com/Moha2005269/agentgo)
+A real Chromium browser built for AI agents, driven over MCP
+<details>
+
+![Image](https://raw.githubusercontent.com/Moha2005269/agentgo/main/assets/demo.svg)
+
+### Category
+Productivity, Coding
+
+### Description
+- A Windows browser (Rust, Chromium via CEF) that coding agents such as Claude Code, Codex or Droid drive through an MCP server
+- The agent reads pages as compact outlines with stable references, and after each action gets back only what changed
+- Real pointer and keyboard input, and the agent can keep its own signed-in accounts
+- Payments and final submissions can wait for the human to approve them
+- GoMini, an optional small on-device model, takes routine steps such as filling supplied values
+- Published benchmark on 24 BrowserGym MiniWoB++ tasks with the same model: AgentGo 22/24, browser-use 19/24, Playwright MCP 18/24
+
+### Links
+- [GitHub](https://github.com/Moha2005269/agentgo)
+- [Benchmark](https://github.com/Moha2005269/agentgo/blob/main/docs/benchmarks/agentgo-0.1.5.md)
+- [GoMini on Hugging Face](https://huggingface.co/Mhmadhassnz/GoMini)
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
