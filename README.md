@@ -4617,6 +4617,29 @@ Productivity
 </details>
 
 
+## [Layerwise](https://layerwise.app)
+Desktop AI agent workspace for building and publishing full-stack web apps
+
+<details>
+
+![Layerwise conversation and local app preview](https://layerwise.app/screenshots/01-slotly-conversation.png)
+
+### Category
+Coding
+
+### Description
+- Turns natural-language requests into full-stack web apps through an AI agent conversation beside a live local preview.
+- Keeps source files on the computer, with a built-in code editor, GitHub integration, and ZIP export.
+- Includes database, email authentication, hosting, analytics, and logs, with publishing to a layerwise.site URL or a custom domain.
+- Supports Agent Skills and local or remote MCP servers for extending the agent's workflow.
+
+### Links
+- [Web](https://layerwise.app)
+- [Documentation](https://layerwise.app/docs/getting-started/quickstart)
+- [Download](https://layerwise.app/download)
+
+</details>
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
