@@ -2196,6 +2196,27 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OliveCode](https://github.com/BenjaminZajko/opencodeFORK)
+Terminal coding agent for free cloud models and local Ollama models
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Open-source terminal coding agent based on OpenCode that reads project files, edits code and runs commands with user approvals.
+- Supports free cloud models through user-connected provider accounts and local models through Ollama. Cloud provider quotas and local hardware limits apply.
+- Optional planning, second-opinion and follow-through assistants help review tasks and identify unfinished work.
+- Public preview with installers for macOS, Windows and Linux; published binaries are not code-signed or notarized.
+
+### Links
+- [Website and installation guide](https://olivecode.dev/)
+- [GitHub](https://github.com/BenjaminZajko/opencodeFORK)
+- [Public preview release](https://github.com/BenjaminZajko/opencodeFORK/releases/tag/v0.1.0)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
